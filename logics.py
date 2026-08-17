@@ -10,3 +10,6 @@ for x in xt:
 print(dict)
 
 print("i printed ")
+
+def calculate_sum(a, b):
+    return a + b
