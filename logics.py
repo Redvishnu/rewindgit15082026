@@ -8,3 +8,5 @@ for x in xt:
     else:
         dict[x]=1
 print(dict)
+
+print("i printed ")
